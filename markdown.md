@@ -131,8 +131,9 @@ README в папке resources
 ---
 Структура проекта
 ```text
-helloworld/
+text/
 ├── README.md
+├── markdown.md
 ├── src/
 │   └── README.md
 ├── translations/
