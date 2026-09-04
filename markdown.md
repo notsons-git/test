@@ -131,7 +131,7 @@ README в папке resources
 ---
 Структура проекта
 ```text
-text/
+test/
 ├── README.md
 ├── markdown.md
 ├── src/
