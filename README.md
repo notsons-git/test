@@ -29,6 +29,8 @@
 | [Тестовый Сайт](https://notsons-git.github.io/my-site/) | Одностраничный сайт по мотивам противостояния Патрика Джейна и Красного Джона |
 | [Сайт-визитка пиццерии «Печь & Искра»](https://github.com/notsons-git/my-web-site)¹ | Многостраничный сайт на HTML, CSS и JavaScript: меню, поиск, фильтры и демонстрационная корзина |
 
+¹ Репозиторий с исходным кодом сайта: [notsons-git/my-web-site](https://github.com/notsons-git/my-web-site).
+
 ---
 
 ## Практическая работа по Bash
