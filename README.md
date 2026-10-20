@@ -37,21 +37,29 @@
 <table>
   <tr>
     <td align="center" width="50%">
-              <img src="./bash-practicals/img/1.png" alt="Результат скрипта 1: приветствие" width="100%">
+              <a href="https://github.com/notsons-git/test/blob/main/bash-practicals/img/1.png">
+        <img src="./bash-practicals/img/1.png" alt="Результат скрипта 1: приветствие" width="100%">
+      </a>
       <sub><b>01 · Приветствие пользователя</b></sub>
     </td>
     <td align="center" width="50%">
-              <img src="./bash-practicals/img/2.png" alt="Результат скрипта 2: сумма чисел" width="100%">
+              <a href="https://github.com/notsons-git/test/blob/main/bash-practicals/img/2.png">
+        <img src="./bash-practicals/img/2.png" alt="Результат скрипта 2: сумма чисел" width="100%">
+      </a>
       <sub><b>02 · Сложение двух чисел</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-              <img src="./bash-practicals/img/4.png" alt="Результат скрипта 4: структура проекта" width="100%">
+              <a href="https://github.com/notsons-git/test/blob/main/bash-practicals/img/4.png">
+        <img src="./bash-practicals/img/4.png" alt="Результат скрипта 4: структура проекта" width="100%">
+      </a>
       <sub><b>04 · Создание структуры проекта</b></sub>
     </td>
     <td align="center" width="50%">
-              <img src="./bash-practicals/img/8.png" alt="Результат скрипта 8: статистика GitHub" width="100%">
+              <a href="https://github.com/notsons-git/test/blob/main/bash-practicals/img/8.png">
+        <img src="./bash-practicals/img/8.png" alt="Результат скрипта 8: статистика GitHub" width="100%">
+      </a>
       <sub><b>08 · Анализ репозитория GitHub</b></sub>
     </td>
   </tr>
