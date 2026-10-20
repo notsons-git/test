@@ -9,7 +9,6 @@
 
 Здесь собраны учебные материалы и практические работы по командной строке, Bash, Git, Markdown и Mermaid. Репозиторий помогает хранить конспекты в одном месте и быстро переходить от теории к примерам.
 
-**Демонстрационный сайт:** [The Mentalist — Дело Красного Джона](https://notsons-git.github.io/my-site/) — одностраничный дизайн по мотивам противостояния Патрика Джейна и Красного Джона.
 
 > **Как пользоваться:** выбери тему в навигации ниже. В документах есть команды, примеры кода, пояснения и результаты выполнения практических заданий.
 
@@ -27,6 +26,7 @@
 | [Mermaid](./mermaid.md) | Диаграммы и схемы прямо в Markdown-документах |
 | [Редактирование текста](./Text.md) | Клавиши и сочетания для перемещения, выделения, поиска и редактирования текста |
 | [Тема Markdown и README](./README.md) | Эта страница: обзор структуры репозитория и быстрый доступ к материалам |
+| [The Mentalist — Дело Красного Джона](https://notsons-git.github.io/my-site/) | Одностраничный сайт по мотивам противостояния Патрика Джейна и Красного Джона |
 
 ---
 
@@ -109,32 +109,38 @@ test/
 
 ### Конспекты
 
-- **[Bash.md](./Bash.md)** — справочник по командам терминала: навигация по папкам, создание и удаление файлов, сведения о системе, сеть и запуск программ.
-- **[Linux/Bash/README.md](./Linux/Bash/README.md)** — компактная шпаргалка по распространённым командам Linux и Bash.
-- **[git.md](./git.md)** — учебные заметки о контроле версий и пользе Git.
-- **[markdown.md](./markdown.md)** — примеры синтаксиса Markdown для оформления документации.
-- **[mermaid.md](./mermaid.md)** — примеры блок-схем, диаграмм последовательности, классов и диаграмм Ганта.
-- **[Text.md](./Text.md)** — сочетания клавиш для перемещения по тексту, выделения, копирования, поиска и отмены изменений.
+| Файл | Описание |
+|---|---|
+| [Bash.md](./Bash.md) | Команды терминала, файловые операции, сведения о системе, сети и запуске программ |
+| [Linux/Bash/README.md](./Linux/Bash/README.md) | Краткая шпаргалка по Linux и Bash |
+| [git.md](./git.md) | Основы контроля версий и работа с Git |
+| [markdown.md](./markdown.md) | Синтаксис Markdown для оформления документации |
+| [mermaid.md](./mermaid.md) | Блок-схемы, диаграммы последовательности, классов и Ганта |
+| [Text.md](./Text.md) | Сочетания клавиш для перемещения, выделения, поиска и редактирования текста |
 
 ### Практика Bash
 
-- **[bash-practicals/README.md](./bash-practicals/README.md)** — подробный отчёт по заданиям с примерами и скриншотами.
-- **[1_greeting.sh](./bash-practicals/scripts/1_greeting.sh)** — запрос имени и вывод приветствия.
-- **[2_sum.sh](./bash-practicals/scripts/2_sum.sh)** — ввод двух чисел и вычисление суммы.
-- **[3_even.sh](./bash-practicals/scripts/3_even.sh)** — проверка, является ли число чётным.
-- **[4_project_structure.sh](./bash-practicals/scripts/4_project_structure.sh)** — создание базовой структуры веб-проекта.
-- **[5_line_count.sh](./bash-practicals/scripts/5_line_count.sh)** — подсчёт строк в выбранном файле.
-- **[6_password.sh](./bash-practicals/scripts/6_password.sh)** — генерация случайного пароля.
-- **[7_find_files.sh](./bash-practicals/scripts/7_find_files.sh)** — поиск файлов по заданному расширению.
-- **[8_github_stats.sh](./bash-practicals/scripts/8_github_stats.sh)** — получение статистики публичного репозитория через GitHub API.
-- **[img/](./bash-practicals/img/)** — восемь изображений с результатами выполнения заданий.
-- **[.gitignore](./bash-practicals/.gitignore)** — список файлов и папок, которые Git должен игнорировать в каталоге практической работы.
+| Файл | Назначение |
+|---|---|
+| [bash-practicals/README.md](./bash-practicals/README.md) | Отчёт по заданиям с примерами и скриншотами |
+| [1_greeting.sh](./bash-practicals/scripts/1_greeting.sh) | Запрос имени и вывод приветствия |
+| [2_sum.sh](./bash-practicals/scripts/2_sum.sh) | Ввод двух чисел и вычисление суммы |
+| [3_even.sh](./bash-practicals/scripts/3_even.sh) | Проверка числа на чётность |
+| [4_project_structure.sh](./bash-practicals/scripts/4_project_structure.sh) | Создание структуры веб-проекта |
+| [5_line_count.sh](./bash-practicals/scripts/5_line_count.sh) | Подсчёт строк в файле |
+| [6_password.sh](./bash-practicals/scripts/6_password.sh) | Генерация случайного пароля |
+| [7_find_files.sh](./bash-practicals/scripts/7_find_files.sh) | Поиск файлов по расширению |
+| [8_github_stats.sh](./bash-practicals/scripts/8_github_stats.sh) | Получение статистики публичного репозитория через GitHub API |
+| [img/](./bash-practicals/img/) | Скриншоты результатов восьми заданий |
+| [.gitignore](./bash-practicals/.gitignore) | Файлы и папки, которые Git должен игнорировать |
 
 ### Служебные заготовки
 
-- **[src/README.md](./src/README.md)** — заготовка документации для исходных файлов.
-- **[translations/README.md](./translations/README.md)** — заготовка раздела переводов.
-- **[resources/README.md](./resources/README.md)** — заготовка раздела ресурсов.
+| Файл | Описание |
+|---|---|
+| [src/README.md](./src/README.md) | Заготовка документации для исходных файлов |
+| [translations/README.md](./translations/README.md) | Заготовка раздела переводов |
+| [resources/README.md](./resources/README.md) | Заготовка раздела ресурсов |
 
 ---
 
