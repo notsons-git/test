@@ -25,5 +25,7 @@
 
 | Проект | Ссылка |
 |---|---|
+| PlayPick | [Репозиторий](https://github.com/notsons-git/PlayPick) · [README](https://github.com/notsons-git/PlayPick/blob/main/README.md) |
+| NotAconverter | [Репозиторий](https://github.com/notsons-git/notaconverter) |
 | Сайт по мотивам «Менталиста» | [Открыть сайт](https://notsons-git.github.io/my-site/) |
 | Сайт-визитка пиццерии «Печь & Искра» | [Репозиторий](https://github.com/notsons-git/my-web-site) |
