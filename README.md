@@ -23,9 +23,9 @@
 
 ## Другие проекты
 
-| Проект | Ссылка |
-|---|---|
-| PlayPick | [Репозиторий](https://github.com/notsons-git/PlayPick) · [README](https://github.com/notsons-git/PlayPick/blob/main/README.md) |
-| NotAconverter | [Репозиторий](https://github.com/notsons-git/notaconverter) |
-| Сайт по мотивам «Менталиста» | [Открыть сайт](https://notsons-git.github.io/my-site/) |
-| Сайт-визитка пиццерии «Печь & Искра» | [Репозиторий](https://github.com/notsons-git/my-web-site) |
+| Проект | Ссылка | Описание |
+|---|---|---|
+| PlayPick | [Репозиторий](https://github.com/notsons-git/PlayPick) | Выбор игры из установленной библиотеки с помощью рулетки. |
+| NotAconverter | [Репозиторий](https://github.com/notsons-git/notaconverter) | Конвертер файловых форматов. |
+| Сайт по мотивам «Менталиста» | [Открыть сайт](https://notsons-git.github.io/my-site/) | Фан-сайт о Патрике Джейне. |
+| Сайт-визитка пиццерии «Печь & Искра» | [Репозиторий](https://github.com/notsons-git/my-web-site) | Сайт-визитка пиццерии. |
