@@ -8,6 +8,7 @@
 |---|---|
 | Bash и команды терминала | [Bash.md](./Bash.md) |
 | Linux и Bash | [Linux/Bash](./Linux/Bash/README.md) |
+| Docker | [docker.md](./docker.md) |
 | Git | [git.md](./git.md) |
 | Markdown | [markdown.md](./markdown.md) |
 | Mermaid | [mermaid.md](./mermaid.md) |
